@@ -12,9 +12,9 @@ font-size: 9pt;
 
 }
 
-.col-sm-1 {
-  color: #fdfdfd;
-  background-color: #be8d7e;
+.col-lg-2 {
+  height: 200px;
+  width: 200px;
   text-align: center;
 
 }
